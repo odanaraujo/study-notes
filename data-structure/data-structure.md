@@ -220,7 +220,7 @@ T = 6n + 4 + 6n² + 4n + 3n² + n + 1
 T = 9n² + 11n + 5
 T = n²
 
-![estrutura polinomiais](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220812122843/Logarithmic-time-complexity-blog-1.jpg)
+![estrutura polinomiais](https://www.iugu.com/hs-fs/hubfs/Imported_Blog_Media/HTj2Ri2kXpmYdnLVJB4pGk7fnv_XpYwNWTtGGo4vCu9F2vYm6LeFST-q_fRYkcmRN9vrMtsh4-WK0Tx-F_fOaKHYAGrKkELBfitbe0qeJlmnZ7Rir7ikW9YFc_QqjXY_McJrNyX7-1.png?width=602&height=511&name=HTj2Ri2kXpmYdnLVJB4pGk7fnv_XpYwNWTtGGo4vCu9F2vYm6LeFST-q_fRYkcmRN9vrMtsh4-WK0Tx-F_fOaKHYAGrKkELBfitbe0qeJlmnZ7Rir7ikW9YFc_QqjXY_McJrNyX7-1.png)
 
 ---
 
